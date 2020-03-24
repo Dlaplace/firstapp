@@ -5,8 +5,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Create app, primer intento</h1>
-      <p>bla bla bla</p>
+      <h1>Mi primera aplicación</h1>
+      <p></p>
     </div>
   );
 }
